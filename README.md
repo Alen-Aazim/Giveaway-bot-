@@ -1,0 +1,2 @@
+# Giveaway-bot-
+A powerful Giveaway. Bot with multiple functions 
